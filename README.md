@@ -12,12 +12,6 @@
 
 <br/>
 
-# Access
-
-* The website is online at the address : **[quentinptt.fr](https://www.quentinptt.fr/)**.
-
-<br/>
-
 # Credits
 
 * [**Quentin PETIT**](https://github.com/quentinptt) : Creator of the project.
